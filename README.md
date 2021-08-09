@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Minkyu Lee, a.k.a. hotmandu
+-----
+Currently:
+Making a secret project named BRM.
+Learning ML.
 <!--
 **hotmandu/hotmandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
